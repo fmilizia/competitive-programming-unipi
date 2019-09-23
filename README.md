@@ -12,3 +12,4 @@ in the class.
 | ------------ | ---------- | --------- |
 | 1 | 16/09/2019 | [Solutions](lecture_1/lecture_1.md) |
 | 2 | 17/09/2019 | [Solutions](lecture_2/lecture_2.md)|
+| 3 | 23/09/2019 | [Solutions](lecture_3/lecture_3.md)|
