@@ -1,4 +1,4 @@
-# Lecture 3 (23/09/2019)
+# Lectures 3 and 4 (23 and 24/09/2019)
 
 ## Inversion count
 The problem can be found [here](http://www.spoj.com/problems/INVCNT/)
