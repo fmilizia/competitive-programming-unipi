@@ -8,8 +8,6 @@ int main(){
     vector<int> t(n);
     
     for(int i=0; i<n; i++) cin >> t[i];
-    int sum = 0;
-    for(int i=0; i<n; i++) sum += t[i];
     
     int a = 0, b = 0;
     int alice = 0, bob = 0;
