@@ -15,4 +15,5 @@ in the class.
 | 3 and 4 | 23 and 24/09/2019 | [Solutions](lecture_3/lecture_3.md)|
 | 5 | 30/09/2019 | [Solutions](lecture_5/lecture_5.md)|
 | 6 | 01/10/2019 | [Solutions](lecture_6/lecture_6.md)|
-| 7 | ?/10/2019 | [Solutions](lecture_7/lecture_7.md) |
+| 7 and 8 | 7 and 8/10/2019 | [Solutions](lecture_7/lecture_7.md) |
+| 9 | ?/10/2019 | [Solutions](lecture_9/lecture_9.md) |
