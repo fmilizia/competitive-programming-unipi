@@ -1,4 +1,4 @@
-# Lecture 9 (14/10/2019)
+# Lecture 10 (15/10/2019)
 
 ## Nested segments
 The problem can be found [here](http://codeforces.com/problemset/problem/652/D?locale=en)
