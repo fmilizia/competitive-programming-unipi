@@ -18,3 +18,4 @@ in the class.
 | 7 and 8 | 7 and 8/10/2019 | [Solutions](lecture_7/lecture_7.md) |
 | 9 | 14/10/2019 | [Solutions](lecture_9/lecture_9.md) |
 | 10 | 15/10/2019 | [Solutions](lecture_10/lecture_10.md) |
+| 11 | 21/10/2019 | [Solutions](lecture_11/lecture_11.md) |
