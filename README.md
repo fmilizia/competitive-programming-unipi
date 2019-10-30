@@ -21,4 +21,4 @@ in the class.
 | 11 | 21/10/2019 | [Solutions](lecture_11/lecture_11.md) |
 | 12 | 22/10/2019 | [Solutions](lecture_12/lecture_12.md) |
 | 13 | 28/10/2019 | [Solutions](lecture_13/lecture_13.md) |
-| 13 | 29/10/2019 | [Solutions](lecture_14/lecture_14.md) |
+| 14 | 29/10/2019 | [Solutions](lecture_14/lecture_14.md) |

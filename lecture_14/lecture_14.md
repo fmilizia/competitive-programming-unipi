@@ -44,8 +44,10 @@ The Fenwick tree supports the following operations on an array H[0,n-1]:
  - increase the value H[i] by 1
  - compute the sum of the elements in a range (it actually computes the sums of prefixes. With a subtraction one gets the sum of a range).
 
-Then, here is how I implemented the operations that are needed:
+Then, here is how I implemented the operations that are needed. The idea is to extract the big values (>=C) from the segment tree, making note of their positions in the Fenwick tree.
  - increase: just do the operation on the segment tree.
  - count: find the maximum value in the range (asking the segment tree). Suppose it is in position p, and the value is val.
-   If val >= C, tell the Fenwick tree to increase the value in position p, and tell the segment tree to decrement the value in position p making it very very small.
+   If val >= C, tell the Fenwick tree to increase the value in position p, tell the segment tree to decrement the value in position p making it very very small, and repeat (finding the next maximum, until we find a value smaller than C).
    Now the answer to the query can be found with a query to the Fenwick tree, asking the sum in the given range.
+   
+
