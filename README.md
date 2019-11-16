@@ -22,3 +22,5 @@ in the class.
 | 12 | 22/10/2019 | [Solutions](lecture_12/lecture_12.md) |
 | 13 | 28/10/2019 | [Solutions](lecture_13/lecture_13.md) |
 | 14 | 29/10/2019 | [Solutions](lecture_14/lecture_14.md) |
+| 15 | 11/11/2019 | [Solutions](lecture_15/lecture_15.md) |
+| 16 | 12/11/2019 | [Solutions](lecture_16/lecture_16.md) |
