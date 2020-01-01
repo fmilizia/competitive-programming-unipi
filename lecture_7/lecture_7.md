@@ -1,4 +1,4 @@
-# Lectures 7 and 8 (7 and 8/10/2019)
+# Lectures 7 and 8 (07/10/2019 and 08/10/2019)
 
 ## Megacity
 The problem can be found [here](http://codeforces.com/problemset/problem/424/B?locale=en)

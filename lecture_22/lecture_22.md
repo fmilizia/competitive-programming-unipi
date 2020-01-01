@@ -1,4 +1,4 @@
-# Lecture 22 (9/12/2019)
+# Lecture 22 (09/12/2019)
 
 ## Learning languages
 The problem can be found [here](http://codeforces.com/problemset/problem/277/A?locale=en)
