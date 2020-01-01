@@ -1,4 +1,4 @@
-# Lecture 19 (02/12/2019)
+# Lecture 20 (02/12/2019)
 
 ## Lexicographically maximum subsequence
 The problem can be found [here](http://codeforces.com/problemset/problem/196/A?locale=en)
