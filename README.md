@@ -1,10 +1,10 @@
 # Competitive Programming and Contests
-This year I am attending a class about algorithmic problems, called 
+In 2019 I attended a class at the University of Pisa about algorithmic problems, called 
 *Competitive Programming and Contests*.
 The webpage of the class, mantained by the teacher,
 can be found [here](https://github.com/rossanoventurini/CompetitiveProgramming).
 
-I am collecting here all the solutions for the exercises given as homework
+I have collected here all the solutions for the exercises given as homework
 in the class. 
 
 ## Lectures
